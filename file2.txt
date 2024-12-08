@@ -1,1 +1,1 @@
-This is file2
+Back to original with no errors file2.txt
